@@ -18,7 +18,7 @@ Sign into the Azure portal<br/>
 
 
 <h4>Step 2</h4> 
-Go to Create resource -->Compute -->Virtual Machine -->Create, and Enter and verify the values for each setting<br/>
+Go to Create resource -->Compute -->Virtual Machine -->Create, and Enter and verify the values for each setting according to your specifications.<br/>
 <img src="https://i.imgur.com/7APiIGp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/72nu8uj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/qZaf6LA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
