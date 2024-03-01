@@ -6,7 +6,7 @@ This lab will create a virtual machine in the Azure Cloud, using the Azure porta
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure and Learn Sandobox</b>
+- <b>Microsoft Azure and Learn Sandbox</b>
 
 <h2>Lab walk-through:</h2>
 
